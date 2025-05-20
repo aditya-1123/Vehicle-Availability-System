@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vehicle-Management-System-Java-Servlet
 An Web App to buy or sell vehicles. Developed using Java Servlets, JSP templates, JDBC driver and mySQL database
 
@@ -21,3 +22,6 @@ Click on the image to watch the full video.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+=======
+# Vehicle-Availability-System
+>>>>>>> 3bce2009a55f83068d46a32fdc56382e64168a60
