@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Vehicle-Management-System-Java-Servlet
+# Vehicle-Availability-System-Java-Servlet
 An Web App to buy or sell vehicles. Developed using Java Servlets, JSP templates, JDBC driver and mySQL database
-
-
 
 ## This app uses
 ```Java Servlets, JSP pages, JDBC driver for mySQL, ArrayLists```
